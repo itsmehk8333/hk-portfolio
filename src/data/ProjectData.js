@@ -16,7 +16,7 @@ export const ProjectList = [
       "Payment wallet stores funds, sends money, manages balances, tracks transactions",
     tech_stack: ["ReactJs", "NodeJs", "ExpressJs", "MongoDB","JWT"],
     github_url: "https://github.com/itsmehk8333/paytm-wallet-frontend",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "https://paytm-wallet-frontend.vercel.app/login",
   },
   {
     img: "/ecommerceapp.png",
