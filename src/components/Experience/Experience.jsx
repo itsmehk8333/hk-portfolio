@@ -42,6 +42,15 @@ export const ExperienceDate = styled.p`
 
 const experiences = [
   {
+    title: "Freelance Web Developer",
+    dateRange: "July 2024 - Present",
+    details: "Worked on various freelance projects, creating dynamic and user-friendly websites for clients using modern web technologies.",
+    tasks: [
+      
+      "Specializing in developing personalized portfolios for clients and developers to effectively showcase their skills, achievements, and unique value in the best possible way."
+    ],
+  },
+  {
     title: "Software Engineer - DEFTeam Private Limited, Hyderabad",
     dateRange: "August 2022 - July 2024",
     details: "Designed and implemented modules for goal management, performance analysis, and email automation. Developed role-based access controls, secure API solutions, and chatbot functionality.",
@@ -54,15 +63,7 @@ const experiences = [
       "Coordinated with leads and team members to obtain necessary approvals and incorporate feedback, ensuring the seamless  integration of new features while maintaining system functionality and usability. "
     ],
   },
-  {
-    title: "Freelance Web Developer",
-    dateRange: "July 2024 - Present",
-    details: "Worked on various freelance projects, creating dynamic and user-friendly websites for clients using modern web technologies.",
-    tasks: [
-      
-      "Specializing in developing personalized portfolios for clients and developers to effectively showcase their skills, achievements, and unique value in the best possible way."
-    ],
-  },
+  
 ];
 
 function Experience() {

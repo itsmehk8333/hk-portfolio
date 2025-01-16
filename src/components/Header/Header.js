@@ -3,7 +3,7 @@ import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 
 const Header = ({ toggle }) => {
   return (
-    <div className="Container" style={{padding: 0}}>
+    <div className="Container" style={{ padding: 0 }}>
       <Nav>
         <Logo to="/">
           <img
@@ -12,6 +12,9 @@ const Header = ({ toggle }) => {
           />
         </Logo>
         <NavMenu>
+          <NavLink className="menu-item" to="experience">
+            Experience
+          </NavLink>
           <NavLink className="menu-item" to="projects">
             Projects
           </NavLink>
