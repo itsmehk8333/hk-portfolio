@@ -1,11 +1,19 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: '/taskpageimage.png',
+    title: "Task Management System",
+    description: "A web application designed to manage tasks, assign them to users, track their status, and provide an organized workflow.",
+    tech_stack: ["ReactJs", "Redux", "NodeJs", "ExpressJs", "MongoDB", "JWT", "MUI",],
+    github_url: "https://github.com/itsmehk8333/design-shark",
+    demo_url: "https://design-shark-xrzm.vercel.app/login",
+  },
+  {
     img: "/medium-project-image.png",
     title: "Medium Clone",
     description:
       "An app that enables users to create, read, and interact with articles.",
-    tech_stack: ["React", "Node", "Express", "MongoDB","MUI" , "Draft.js"],
+    tech_stack: ["React", "Node", "Express", "MongoDB", "MUI", "Draft.js"],
     github_url: "https://github.com/itsmehk8333/medium-front-end",
     demo_url: "https://medium-front-end-xi.vercel.app/homepage",
   },
@@ -14,7 +22,7 @@ export const ProjectList = [
     title: "Paytm Wallet",
     description:
       "Payment wallet stores funds, sends money, manages balances, tracks transactions",
-    tech_stack: ["ReactJs", "NodeJs", "ExpressJs", "MongoDB","JWT"],
+    tech_stack: ["ReactJs", "NodeJs", "ExpressJs", "MongoDB", "JWT"],
     github_url: "https://github.com/itsmehk8333/paytm-wallet-frontend",
     demo_url: "https://paytm-wallet-frontend.vercel.app/login",
   },
