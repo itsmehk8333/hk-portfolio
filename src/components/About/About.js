@@ -29,7 +29,7 @@ function About() {
             <br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            Growing up, I developed a strong interest in solving problems and a fascination with technology, which led me to pursue Computer Science. With one year of experience in the MERN stack, I’ve had the opportunity to work on a variety of web applications, honing my skills in both front-end and back-end development.
+            Growing up, I developed a strong interest in solving problems and a fascination with technology, which led me to pursue Computer Science. With two year of experience in the MERN stack, I’ve had the opportunity to work on a variety of web applications, honing my skills in both front-end and back-end development.
             </ScrollAnimation>
             <br />
 
