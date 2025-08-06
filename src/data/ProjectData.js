@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+      img: "/prp.png",
+    title: "AI-Driven Performance Review Platform",
+    description: "An enterprise-ready, AI-augmented platform that simplifies performance management for HR teams, managers, and employees.",
+    tech_stack: ["ReactJs", "Redux", "NodeJs", "ExpressJs", "MongoDB", "JWT", "chakra-ui","Open AI API", "Hugging Face"],
+    github_url: "https://github.com/itsmehk8333/performance-review-platform",
+    demo_url: "https://gorgeous-bienenstitch-932b3b.netlify.app/login",
+  }
+  ,
+  {
     img: '/taskpageimage.png',
     title: "Task Management System",
     description: "A web application designed to manage tasks, assign them to users, track their status, and provide an organized workflow.",
@@ -34,15 +43,6 @@ export const ProjectList = [
     tech_stack: ["ReactJs", "NodeJs", "ExpressJs", "MongoDB"],
     github_url: "https://github.com/itsmehk8333/ecommerce_fullstack_app",
     demo_url: "https://ecommerce-frontend-sandy-phi.vercel.app/homepage",
-  },
-  {
-    img: "/todoapp.png",
-    title: "Simplet-Todo-list",
-    description:
-      "An app that helps users create, manage, and track tasks.",
-    tech_stack: ["ReactJs", "Redux"],
-    github_url: "https://github.com/itsmehk8333/Simplet-Todo-list",
-    demo_url: "https://simplet-todo-lists.vercel.app/",
   },
   // {
   //   img: "/jobDetect.png",
