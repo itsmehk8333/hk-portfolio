@@ -1,10 +1,10 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-      img: "/prp.png",
+    img: "/prp.png",
     title: "AI-Driven Performance Review Platform",
     description: "An enterprise-ready, AI-augmented platform that simplifies performance management for HR teams, managers, and employees.",
-    tech_stack: ["ReactJs", "Redux", "NodeJs", "ExpressJs", "MongoDB", "JWT", "chakra-ui","Open AI API", "Hugging Face"],
+    tech_stack: ["ReactJs", "Redux", "NodeJs", "ExpressJs", "MongoDB", "JWT", "chakra-ui", "Open AI API", "Hugging Face"],
     github_url: "https://github.com/itsmehk8333/performance-review-platform",
     demo_url: "https://gorgeous-bienenstitch-932b3b.netlify.app/login",
   }
